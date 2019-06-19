@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+Name       : Jade Cutter 
+Description: Jade Cutter is currently a student at Tacoma Community College, having finished an Associate's of Science in Electrical Engineering. She is spending a summer at Cornell University, assisting the astrophysics department with NANOGrav, a national collaboration to detect gravity waves using the time-of-arrival of pulsar signals. She is transferring to the University of Washington this coming fall and working as an undergraduate researcher at the Nano Optoelectronics Integrated Systems Engineering Laboratory.
+Version    : 1.0
+Released   : 20140221
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jade Cutter</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<style>
+	A{text-decoration:none}
+	</style>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><font color="white">Jade Cutter</font></h1>
+				<p>Electrical and Computer Engineering Major University of Washington</p>
+			</div>
+			<div id="banner"> <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a> </div>
+		</div>
+	</div>
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul>
+				<li class="current_page_item"><a href="#">Homepage</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">Portfolio</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+		<!-- end #menu --> 
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+				<h2>about me</h2>
+				<span class="byline">How I intend to leave this world better off than I found it.</span> </div>
+			<p>NOW YOU'RE ON THE ABOUT PAGE, FEEL FREE TO EDIT a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
+			<p>Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. Duis pretium velit ac mauris. Proin eu wisi suscipit nulla suscipit interdum. Aenean lectus lorem, imperdiet at, ultrices eget, ornare et, wisi. Pellentesque adipiscing purus ac magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. </p>
+		</div>
+		<div id="sidebar">
+			<div class="box2">
+				<div class="title">
+					<center>
+					<h2>TPU Workshop</h2>
+					</center>
+				</div>
+				<ul class="style2">
+					<center>
+					<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/39442721_1983709851651214_2592226051211919360_n.jpg?_nc_cat=106&_nc_eui2=AeFzS8lN_DVpwXymnyAqSKYGTXEuGsJC2kxtZo5s8I8VbgYxP4WzWvdeLgEfMLRBM8o3EwqnkayJ5WC97EDQTxSy3PjLGfOpuJtSx0LpH5K9iQ&_nc_oc=AQmlaFzYo8lwvqwdFZzS7q1RWcNRnn7DcJ0pUXIDhK-pByJtog-xCBxQIpGFu3km-I4&_nc_ht=scontent-lga3-1.xx&oh=40026df6615d4f7645a0149b3b4e0218&oe=5D82A574" style="width:300px;height:300px;">
+					<li><a href="https://www.researchgate.net/profile/Jade_Cutter">ResearchGate Publications</a></li>
+					<li><a href="https://github.com/JadeCutter">Personal GitHub</a></li>
+					<li><a href="https://www.instagram.com/registeredjademark/">@registeredjademark</a></li>
+					<li><a href="https://www.linkedin.com/in/jade-cutter-0104b1125/">LinkedIn</a></li>
+					<li><a href="#">Fictional Works (Coming Soon)</a></li>
+					</center>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+	<div id="portfolio-wrapper">
+		<div id="portfolio" class="container">
+			<div id="column1">
+				<div class="title">
+					<h2><center>Tacoma Community College: Stories</center></h2>
+				</div>
+				<a href="#" class="image image-full"><img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/53930280_2277786635576866_2431482897249599488_n.jpg?_nc_cat=108&_nc_eui2=AeEhDafnbdp2VDMGF0z35DG8HWIFoaoEYT3I4xqSVC0jGa6cQNWW71m-94EN0WDecmKvycAK1JzfR3qkqrhmE3prcoLFSYE5dV534ZlqVcjCxQ&_nc_oc=AQnDx4F6WOiWQVno1FfyvjWTbysYeIHyV6Gr_KGt93e47Bam0QJLPvt14nlIZT18S5w&_nc_ht=scontent-lga3-1.xx&oh=14acdc688ef8bd0e5a18ef25e40ce0e3&oe=5D7C7244" alt="" /></a>
+				<p>Cutter originally wanted to be an astrophysicist. She made the hard decision to switch to electrical engineering after researching employment opportunities in the field. But while doing a research paper for Bill Adams’ chemistry course, she stumbled across the field of laser propulsion...</p>
+				<a href="https://www.tacomacc.edu/tcc-life/stories/jade_cutter" class="icon icon-plus-sign button">Read More</a> </div>
+			<div id="column2">
+				<div class="title">
+					<h2>2018 Martin Scholar</h2>
+				</div>
+				<a href="#" class="image image-full"><img src="http://expd.uw.edu/scholarships/wp-content/uploads/2018/05/Jade-Cutter-final.jpg" alt="" /></a>
+				<p>Jade’s passion for atomic physics and space flight began at a young age, spurred by Brian Greene and her grandfather’s innovative work as a manager for Boeing. As a child, she sat on the kitchen counter multiplying fractions to bake half-recipes with her grandfather, and spent evenings with her mother in secondhand bookshops reading voraciously...</p>
+				<a href="http://expd.uw.edu/scholarships/martin/martin-scholars-history/" class="icon icon-plus-sign button">Read More</a> </div>
+			<div id="column3">
+				<div class="title">
+					<h2>Kemper Engineering</h2>
+				</div>
+				<a href="#" class="image image-full"><img src="https://i2.wp.com/kempereng.com/wp-content/uploads/2019/01/jade-and-bart-on-site.jpg?w=621&ssl=1" alt="" /></a>
+				<p>Jade managed the steep learning curve in material science, building upon the SolidWorks experience she had in school.  She assisted in developing computer models for several projects as well as working on site with our principal engineer, Bart Kemper, P.E.  She also took the time to get involved with the local community...</p>
+				<a href="https://www.kempereng.com/archives/1164" class="icon icon-plus-sign button">Read More</a> </div>
+			<div id="column4">
+				<div class="title">
+					<h2>NANOGrav Research</h2>
+				</div>
+				<a href="#" class="image image-full"><img src="http://nanograv.org/assets/img/brand/nanograv-logo-pfc.png" alt="" /></a>
+				<p>Coming Autumn 2019</p>
+				<a href="#" class="icon icon-plus-sign button">Read More</a> </div>
+		</div>
+	</div>
+
+<div id="footer-wrapper">
+	<div id="footer" class="container">
+		<div id="box1">
+			<div class="title">
+				<h2>Latest Post</h2>
+			</div>
+			<ul class="style1">
+				<li><a href="#">Semper mod quis eget mi dolore</a></li>
+				<li><a href="#">Quam turpis feugiat sit dolor</a></li>
+				<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
+				<li><a href="#">Consequat etiam lorem phasellus</a></li>
+				<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+				<li><a href="#">Semper mod quisturpis nisi</a></li>
+			</ul>
+		</div>
+		<div id="box2">
+			<div class="title">
+				<h2>Popular Links</h2>
+			</div>
+			<ul class="style1">
+				<li><a href="#">Semper mod quis eget mi dolore</a></li>
+				<li><a href="#">Quam turpis feugiat sit dolor</a></li>
+				<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
+				<li><a href="#">Consequat etiam lorem phasellus</a></li>
+				<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+				<li><a href="#">Semper mod quisturpis nisi</a></li>
+			</ul>
+		</div>
+		<div id="box3">
+			<div class="title">
+				<h2>Follow Us</h2>
+			</div>
+			<p>Proin eu wisi suscipit nulla suscipit interdum. Aenean lectus lorem, imperdiet magna.</p>
+			<ul class="contact">
+				<li><a href="https://twitter.com/midnightbiofuel" class="icon icon-twitter"><span>Twitter</span></a></li>
+				<li><a href="https://www.facebook.com/Jades-Notes-398610714025815" class="icon icon-facebook"><span>Facebook</span></a></li>
+				<li><a href="https://www.instagram.com/registeredjademark/" class="icon icon-instagram"><span>Instagram</span></a></li>
+			</ul>
+				<a href="#" class="icon icon-plus-sign button">Read More</a> </div>
+		</div>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Untitled. All rights reserved. | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+</body>
+</html>
