@@ -581,21 +581,7 @@ hr {
 		width: 344px;
 		padding-left: 40px;
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
+	
+	.iframe{
+		 padding:0px; margin:0 auto; width:100%; height:4000px; overflow:hidden !important; }
