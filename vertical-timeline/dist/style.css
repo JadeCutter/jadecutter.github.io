@@ -169,6 +169,42 @@ a:hover, a:active, a:focus {
   left: 20px;
 }
 
+ <!––fix this later, find the Maker Fair pic-->
+.timeline-item .timeline-img-header3 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://i.imgur.com/2CqjdQy.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.timeline-img-header3 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header3 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
+ <!––fix this later, find the Maker Fair pic-->
+.timeline-item .timeline-img-header4 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://i.imgur.com/eqDuryy.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.timeline-img-header4 {
+  height: 200px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-img-header4 h2 {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+}
+
 
 blockquote {
   margin-top: 30px;
